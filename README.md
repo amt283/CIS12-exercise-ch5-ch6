@@ -8,12 +8,10 @@ on what you want the program to do. For example, I can see the benefit of puttin
 like the instructor does because it's much more efficient and allows code to be reused without wasting lines of code, 
 but is generalizing important if you're doing one thing (ex: finding seconds from 1970 to now) or the program is 
 already pretty short? Is it just a case of it's a good idea to get into the practice of generalizing regardless of 
-program length so you'll develop good habits?
-
-If this is the case, then I'd say the instructor's code is the better version. If not, then I'd say I like my 
-version a teensy bit better only because it's easier for me to follow along and understand what's happening (though 
-that's partly because I wrote it and partly because I don't fully understand all the built-in math/time functions 
-that were used in the instructor-version)
+program length so you'll develop good habits? If this is the case, then I'd say the instructor's code is the better 
+version. If not, then I'd say I like my version a teensy bit better only because it's easier for me to follow along 
+and understand what's happening (though that's partly because I wrote it and partly because I don't fully understand 
+all the built-in math/time functions that were used in the instructor-version)
 
 - <b>Exercise 5-14-3</b>
 My version looks pretty close to the instructors, more or less, so there's not much to compare. :)
