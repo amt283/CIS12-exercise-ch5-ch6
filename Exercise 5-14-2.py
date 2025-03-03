@@ -20,7 +20,7 @@ hours = remaining_seconds // 3600  # 3600 seconds in an hour
 remaining_seconds %= 3600
 
 minutes = remaining_seconds // 60  # 60 seconds in a minute
-seconds = remaining_seconds % 60 # Finds remaining seconds thar didn't go into minutes
+seconds = remaining_seconds % 60 # Finds remaining seconds left over from minutes
 
 # Output the results
 print(f"Days since January 1, 1970: {epoch_time:,}")
